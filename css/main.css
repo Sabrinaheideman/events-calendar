@@ -5,7 +5,7 @@
 @viewport { width: device-width; scale: 1; }
 
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 
   box-sizing: border-box;
   -moz-text-size-adjust: 100%;
@@ -20,7 +20,7 @@ html {
 
 tbody td {
   height: 8.75em;
-  border-bottom-color: #ccc
+  border-bottom-color: #ccc;
 }
 
 th {
